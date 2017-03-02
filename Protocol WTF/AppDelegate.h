@@ -1,8 +1,4 @@
 //
-//  AppDelegate.h
-//  Protocol WTF
-//
-//  Created by Evan DeLaney on 3/1/17.
 //  Copyright © 2017 Fish Hook LLC. All rights reserved.
 //
 
@@ -11,7 +7,6 @@
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
-
 
 @end
 
